@@ -8,7 +8,7 @@
 
 
 ## PRODUCT  INFO:
-  01 : eSight is a pair of smart glasses for the blind. By using Sight, a person  can able to know what is going on in front of him.</br>
+  01 : eSight is a pair of smart glasses for the blind. By using Sight, a person  can able to know what is going on in front of him.</br></br>
   02 :How Sight Works:-</br>
        Sight contains a raspberry pi (powered by android  things) & camera the raspberry pi continuously monitors the person  vision through   The camera  and Sight will take a picture and analyze the image using  yolo v3  and detect what is that picture is about, then using a  speaker or headphone, the Sight will voice assist the person about  that picture.
           
