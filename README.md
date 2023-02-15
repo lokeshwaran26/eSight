@@ -21,6 +21,10 @@ eSight is a device consisting of an AI-based camera attached to an eye spectacle
 <li>Numpy</li>
 <li>Open-cv</li>
  </ul>
+ 
+ ## Sources Weights:
+ 
+ Download weights <a href='https://pjreddie.com/media/files/yolov3.weights'>Click here!</a>
   
 
 
